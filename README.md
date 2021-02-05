@@ -1,5 +1,4 @@
-# AWS_Terraform_EFS_EC2
-Blog link :https://medium.com/@rohitraut3366/launching-an-application-on-aws-cloud-using-ec2-efs-s3-and-cloudfront-1526c7dfe6ec
+# [AWS_Terraform_EFS_EC2](https://medium.com/@rohitraut3366/launching-an-application-on-aws-cloud-using-ec2-efs-s3-and-cloudfront-1526c7dfe6ec)
 # This step will help you to understand flow and terraform file.
 ```
 Step 1 : Creating KeyPair and Security group allowing port 22(SSH), 80 and 2049(NFS).
